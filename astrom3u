@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1,AEC
-http://154.90.1.74/ub.php?id=1073
-#EXTINF:-1,ASSP1
-http://154.90.1.74/ub.php?id=1070
-#EXTINF:-1,ASSP2
-http://154.90.1.74/ub.php?id=1071
-#EXTINF:-1,ASSP3_
-http://154.90.1.74/ub.php?id=1072
-#EXTINF:-1,ASSP4
-http://154.90.1.74/ub.php?id=1074
+https://nonton.site:8443/6894864475/7163819284/37348
+#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="" group-title="Astro",MY - iQIYI HD
+https://nonton.site:8443/6894864475/7163819284/37349
+#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP 2" tvg-logo="" group-title="Astro",MY - GO SHOP 2
+https://nonton.site:8443/6894864475/7163819284/37350
+#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="" group-title="Astro",MY - XIAO TAI YANG HD
+https://nonton.site:8443/6894864475/7163819284/37351
+#EXTINF:-1 tvg-id="" tvg-name="MY - AEC HD" tvg-logo="" group-title="Astro",MY - AEC HD
+https://nonton.site:8443/6894864475/7163819284/37352
+#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="" group-title="Astro",MY - SHUANG XING HD
+https://nonton.site:8443/6894864475/7163819284/37353
+#EXTINF:-1 tvg-id="" tvg-name="MY - QUAN JIA HD" tvg-logo="" group-title="Astro",MY - QUAN JIA HD
+https://nonton.site:8443/6894864475/7163819284/37354
+#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL HD" tvg-logo="" group-title="Astro",MY - CELESTIAL HD
+https://nonton.site:8443/6894864475/7163819284/37355
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="" group-title="Astro",MY - TVB JADE
+https://nonton.site:8443/6894864475/7163819284/37356
+#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="" group-title="Astro",MY - AOD 351 HD
+https://nonton.site:8443/6894864475/7163819284/37357
