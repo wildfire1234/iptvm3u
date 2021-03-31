@@ -17,3 +17,11 @@ https://nonton.site:8443/6894864475/7163819284/37355
 https://nonton.site:8443/6894864475/7163819284/37356
 #EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Astro",MY - AOD 351 HD
 https://nonton.site:8443/6894864475/7163819284/37357
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Astro",Astro Super Sport 1HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.ts
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Astro",Astro Super Sport 2HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.ts
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Astro",Astro Super Sport 3HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.ts
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Astro",Astro Super Sport 4HD
+http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.ts
