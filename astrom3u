@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Astro",MY - iQIYI HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Astro",爱奇艺
 https://nonton.site:8443/6894864475/7163819284/37349
-#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Astro",MY - GO SHOP 2
-https://nonton.site:8443/6894864475/7163819284/37350
-#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Astro",MY - XIAO TAI YANG HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Astro",小太阳
 https://nonton.site:8443/6894864475/7163819284/37351
 #EXTINF:-1 tvg-id="" tvg-name="AEC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Astro",AEC HD
 https://nonton.site:8443/6894864475/7163819284/37352
-#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Astro",MY - SHUANG XING HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Astro",双星
 https://nonton.site:8443/6894864475/7163819284/37353
 #EXTINF:-1 tvg-id="" tvg-name="MY - QUAN JIA HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Astro",全佳
 https://nonton.site:8443/6894864475/7163819284/37354
-#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" group-title="Astro",MY - CELESTIAL HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - CELESTIAL HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/309_300.png" group-title="Astro",天映
 https://nonton.site:8443/6894864475/7163819284/37355
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png" group-title="Astro",MY - TVB JADE
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png" group-title="Astro",华丽台
 https://nonton.site:8443/6894864475/7163819284/37356
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="Astro",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Astro",MY - AOD 351 HD
 https://nonton.site:8443/6894864475/7163819284/37357
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Astro",Astro Super Sport 1HD
+#EXTINF:-1 tvg-id="" tvg-name="MY - GO SHOP 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_300.png" group-title="Astro",MY - GO SHOP 2
+https://nonton.site:8443/6894864475/7163819284/37350
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Astro",Astro Super Sport 1 HD
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364352.ts
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Astro",Astro Super Sport 2HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Astro",Astro Super Sport 2 HD
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364351.ts
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Astro",Astro Super Sport 3HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Astro",Astro Super Sport 3 HD
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364350.ts
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Astro",Astro Super Sport 4HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Astro",Astro Super Sport 4 HD
 http://pie.buzz:83/live/Peter.nyr1909/6547736256/364349.ts
