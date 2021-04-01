@@ -6,7 +6,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="Peace",TVBS歡樂
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="Peace",TVBS歡樂1
-rtmp://59.124.75.156/sat/tv052
+rtmp://58.200.131.2:1935/livetv/hunantv
 
 #EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Astro",爱奇艺
 https://nonton.site:8443/6894864475/7163819284/37349
