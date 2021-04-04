@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",TV OKEY
+#EXTINF:-1 tvg-ID="Okey" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",TV OKEY
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
