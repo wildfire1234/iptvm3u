@@ -32,11 +32,11 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
 EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Peace",Astro Super Sport 1 HD
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Astro",Astro Super Sport 2 HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Peace",Astro Super Sport 2 HD
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Astro",Astro Super Sport 3 HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Peace",Astro Super Sport 3 HD
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
-#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Astro",Astro Super Sport 4 HD
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Peace",Astro Super Sport 4 HD
 http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="WXZWT" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="Peace",衛視中文台
@@ -45,7 +45,7 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
 #EXTINF:-1,TVBS
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
-#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="Peace",TVBS新聞
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="Peace",TVBS新聞
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
 
 
