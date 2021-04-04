@@ -1,9 +1,52 @@
 #EXTM3U
 
+#EXTINF:-1,TV OKEY
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58012&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58001&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58002&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58003&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58005&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",8TV
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58006&key=84797b799ae18d1b
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58007&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="AEC HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Peace",AEC HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58025&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - AOD 351 HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/350_300.png" group-title="Peace",AOD 350
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_882&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png" group-title="Peace",华丽台
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_884&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - QUAN JIA HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Peace",全佳
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_885&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - iQIYI HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Peace",爱奇艺
+http://96.44.140.132:18006/view.php?type=m3u8&id=ml2_886&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - SHUANG XING HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Peace",双星
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58027&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Peace",欢喜台
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58026&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="" tvg-name="MY - XIAO TAI YANG HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Peace",小太阳
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58021&key=84797b799ae18d1b
+EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Peace",Astro Super Sport 1 HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_601&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Astro",Astro Super Sport 2 HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_602&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Astro",Astro Super Sport 3 HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_603&key=84797b799ae18d1b
+#EXTINF:-1   tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Astro",Astro Super Sport 4 HD
+http://96.44.140.132:18006/view.php?type=m3u8&id=mlsp_604&key=84797b799ae18d1b
+
 #EXTINF:-1 tvg-id="WXZWT" tvg-logo="https://www.fng.tw/scc/images/SCC_logo.png" group-title="Peace",衛視中文台
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13018&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="Peace",TVBS歡樂
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14016&key=84797b799ae18d1b
+#EXTINF:-1,TVBS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14015&key=84797b799ae18d1b
+#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="Peace",TVBS新聞
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_4_14017&key=84797b799ae18d1b
 
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/310_300.png" group-title="Astro",翡翠台
@@ -27,7 +70,7 @@ https://nonton.site:8443/6894864475/7163819284/37356
 https://nonton.site:8443/6894864475/7163819284/37350
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/316_300.png" group-title="Astro",中天亞洲
 https://nonton.site:8443/6894864475/7163819284/37358
-#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/318_300.png" group-title="Astro", TVB E-NEWS
+#EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/317_300.png" group-title="Astro", TVB E-NEWS
 https://nonton.site:8443/6894864475/7163819284/37359
 #EXTINF:-1 tvg-id="" tvg-name="MY - TVB JADE" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/319_300.png" group-title="Astro",TVB 星河
 https://nonton.site:8443/6894864475/7163819284/37360
