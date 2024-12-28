@@ -20,7 +20,7 @@ CCTV高尔夫·网球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gef
 CCTV台球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV风云足球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV央视文化精品,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?ProgramID=&encrypt=1
-CCTV兵器科技,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?ProgramID=&encrypt=1
+CCTV兵器科技,http://399.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV风云音乐,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV女性时尚,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/nxss/nxss711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV风云剧场,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?ProgramID=&encrypt=1
